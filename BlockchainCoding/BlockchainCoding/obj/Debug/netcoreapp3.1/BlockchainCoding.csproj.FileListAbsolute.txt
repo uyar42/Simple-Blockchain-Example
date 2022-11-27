@@ -1,0 +1,17 @@
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\bin\Debug\netcoreapp3.1\BlockchainCoding.exe
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\bin\Debug\netcoreapp3.1\BlockchainCoding.deps.json
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\bin\Debug\netcoreapp3.1\BlockchainCoding.runtimeconfig.json
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\bin\Debug\netcoreapp3.1\BlockchainCoding.runtimeconfig.dev.json
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\bin\Debug\netcoreapp3.1\BlockchainCoding.dll
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\bin\Debug\netcoreapp3.1\BlockchainCoding.pdb
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\obj\Debug\netcoreapp3.1\BlockchainCoding.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\obj\Debug\netcoreapp3.1\BlockchainCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\obj\Debug\netcoreapp3.1\BlockchainCoding.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\obj\Debug\netcoreapp3.1\BlockchainCoding.AssemblyInfo.cs
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\obj\Debug\netcoreapp3.1\BlockchainCoding.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\obj\Debug\netcoreapp3.1\BlockchainCoding.csproj.CopyComplete
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\obj\Debug\netcoreapp3.1\BlockchainCoding.dll
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\obj\Debug\netcoreapp3.1\BlockchainCoding.pdb
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\obj\Debug\netcoreapp3.1\BlockchainCoding.genruntimeconfig.cache
+C:\Users\asus\source\repos\BlockchainCoding\BlockchainCoding\bin\Debug\netcoreapp3.1\websocket-sharp.dll
